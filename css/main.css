@@ -1110,7 +1110,7 @@ footer .text p {
     color: #707070;
 }
 footer .text p span{
-    color: blue;
+    color: var(--main-color);
 }
 footer .icon {
     padding: 15px;
